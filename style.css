@@ -42,3 +42,12 @@ body{
     padding-top: 60px;
     transition: 0.5s;
 }
+
+.side-nav a{
+    padding: 10px 10px 10px 30px;
+    text-decoration: none;
+    font-size: 22px;
+    color: #ccc;
+    display: block;
+    transition: 0.3s;
+}
