@@ -20,7 +20,7 @@ body{
 }
 
 .navbar ul{
-    padding: 8px 0 0 0;
+    margin: 8px 0 0 0;
     list-style: none;
 }
 
@@ -62,4 +62,11 @@ body{
     right: 22px;
     font-size: 36px;
     margin-left: 50px;
+}
+
+#main{
+    transition:margin-left 0.5s;
+    padding: 20px;
+    overflow: hidden;
+    width: 100%;
 }
